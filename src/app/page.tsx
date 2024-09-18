@@ -1,6 +1,4 @@
-"use clint";
 
-import React from 'react'
 import Countdown from '@/components/count_down'
 
 const Home = () => {
@@ -12,5 +10,7 @@ const Home = () => {
 }
 
 export default Home
+
+
 
 
